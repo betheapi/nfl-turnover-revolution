@@ -35,31 +35,4 @@ traditional pass rushers—representing $100M+ in draft and free agency decision
 - CAR led NFL with 173 turnovers (historic high in dataset)
 
 
-  ## Technical Skills Demonstrated
 
-**SQL:**
-
-- Window functions (RANK, PARTITION BY)
-- Common Table Expressions (CTEs)
-- Aggregations and GROUP BY
-- Multi-year longitudinal analysis
-
-**Data Analysis:**
-
-- Hypothesis testing (turnovers vs sacks)
-- Era-based pattern recognition
-- Statistical comparison (100% vs 43%)
-- Outlier analysis (2015 anomaly)
-
-**Data Visualization (Tableau):**
-
-- Multi-chart dashboard design
-- Interactive filtering
-- Color coding for insight clarity
-- Timeline visualizations
-
-**Business Intelligence:**
-
-- Translated technical finding to strategic recommendation
-- Quantified financial impact
-- Identified actionable insights
